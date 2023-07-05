@@ -2,7 +2,7 @@
   "name": "who-used-glyph",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/shiddarthbista/who-used-glyph",
+  "homepage": "https://shiddarthbista.github.io/who-used-glyph",
 
   "dependencies": {
     "-": "^0.0.1",
