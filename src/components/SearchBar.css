@@ -41,6 +41,10 @@
     cursor: pointer;
   }
 
+  .search-bar button[type="submit"]:hover {
+    background-color: #1eda24;
+  }
+
   .loading-spinner {
     display: flex;
     justify-content: center;
