@@ -1,0 +1,31 @@
+.kg-members {
+    margin-top: 20px;
+    text-align: center;
+  }
+  
+  
+  .kg-members h2 {
+    font-size: 20px;
+    margin-bottom: 10px;
+  }
+  
+  .kg-members ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    
+  }
+  
+  .kg-members li {
+    margin-bottom: 10px; 
+    
+  }
+  
+  .kg-members li span:first-child {
+    font-weight: bold;
+    margin-right: 10px;
+  }
+  
+  .kg-members li span:last-child {
+    font-weight: normal;
+  }
