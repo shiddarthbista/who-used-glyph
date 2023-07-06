@@ -24,7 +24,7 @@ function SearchBar() {
   const sendRequest = (query) => {
     setIsLoading(true);
     axios
-      .post(`https://go-glyph-v2-f53b68856ba5.herokuapp.com/api/glyph/${query}`)
+      .post(`https://test-6d9v.onrender.com/glyph/${query}`)
       .then((response) => {
         // Handle successful response
         setResponseData(response.data);
